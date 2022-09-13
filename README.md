@@ -8,3 +8,7 @@
 ## Questions ???
 - Is it posible to understand the brain-heart connectivity using the cross-attention?
 - Can the nonlinear dynamics underlying the complex system be interpreted in terms of deep learning with attention?
+  * delay
+  * embedding dimension
+  * attractor
+
