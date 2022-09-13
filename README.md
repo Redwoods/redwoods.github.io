@@ -6,5 +6,5 @@
 - How to predict the future change of the complex signals, i.e., physiological signals or the financial time series?
 ---
 ## Questions ???
-- Is it posible to understand the brain-heart connectivity uding the cross-attention?
+- Is it posible to understand the brain-heart connectivity using the cross-attention?
 - Can the nonlinear dynamics underlying the complex system be interpreted in terms of deep learning with attention?
